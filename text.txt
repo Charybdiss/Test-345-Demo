@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello there
+=======
+Hello, mate. How are you?
+>>>>>>> dcf8d60e75ca4bfccc6e9a085e4ab435694db92a
